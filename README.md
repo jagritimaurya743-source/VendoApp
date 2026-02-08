@@ -27,3 +27,7 @@ An interactive map-based platform that visualizes key stakeholders on a live map
 ## 🧑‍💻 Hackathon
 Built for **Haxplore Hackathon (IIT BHU)**  
 Current version represents ~25% functional MVP.
+
+Note:
+OTP system is in prototype mode.
+For demo purposes, OTP is shown in console / fixed as 123456.
